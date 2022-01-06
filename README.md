@@ -37,4 +37,4 @@ There is no license for this project.
 # Questions:
 
 - [GitHub](https://github.com/ting-hu)
-- E-mail: <huxu@uwplatt.edu>
+- [E-mail](huxu@uwplatt.edu)
