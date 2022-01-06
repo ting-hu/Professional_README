@@ -91,6 +91,6 @@ ${renderLicenseSection(license)}
 
 # Questions:
 * [GitHub](https://github.com/${github})
-* E-mail: <${email}>
+* [E-mail] (${email})
 `;
 };
