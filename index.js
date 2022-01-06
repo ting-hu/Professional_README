@@ -9,7 +9,6 @@ const promptUser = () => {
     ================================
     Begin creating your readme now:`);
 
-  //inquirer used to create questions and get user input
   return inquirer
     .prompt([
       {

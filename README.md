@@ -1,5 +1,7 @@
 # Professional_README
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 ## _Table of Contents_
 
 - [Description](#description)
@@ -12,19 +14,19 @@
 
 ## Description
 
-To quickly create a professional README for a new project.
+This is a professional readme file generator.
 
 ## Installation
 
-Clone the code and use node index.js to fill in the corresponding information and to create the README.
+Clone the repo, and use "npm start" to start the application in the terminal.
 
 ## Usage
 
-Go to the bash page of the file, use command node index.js
+For any project on your GitHub page.
 
 ## Contributing
 
-Xueting Hu
+N/A
 
 ## Tests
 
@@ -32,9 +34,10 @@ N/A
 
 ## License
 
-There is no license for this project.
+To learn more about this licensing, click the link below:
+<https://unlicense.org/>
 
 # Questions:
 
 - [GitHub](https://github.com/ting-hu)
-- [E-mail](huxu@uwplatt.edu)
+- [E-mail] (huxu@uwplatt.edu)
